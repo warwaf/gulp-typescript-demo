@@ -1,0 +1,32 @@
+{
+  "name": "gulp-typescript-demo",
+  "version": "1.0.0",
+  "description": "这是个demo",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-jshint": "^2.0.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-load-plugins": "^1.2.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-minify-html": "^1.0.6",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.2.0",
+    "gulp-uglify": "^1.5.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/warwaf/gulp-typescript-demo.git"
+  },
+  "author": "war",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/warwaf/gulp-typescript-demo/issues"
+  },
+  "homepage": "https://github.com/warwaf/gulp-typescript-demo#readme"
+}
